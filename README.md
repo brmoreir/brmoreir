@@ -51,7 +51,8 @@ Yeah... Still working on these. Stay tunned!
 
 - [Microsoft](https://www.microsoft.com/) as a Azure Infrastructure Engineer. May 2020 - ???.
 - [Microsoft](https://www.microsoft.com/) as a Partner Technical Consultant. Set 2018 - May 2020.
-- [Microsoft](https://www.microsoft.com/en) as a Digital Transformation Consultant. Set 2017 - Jun 2018
+- [Microsoft](https://www.microsoft.com/en) as a Digital Transformation Consultant. Set 2017 - Jun 2018.
+- [Vodafone](https://www.vodafone.com) as a Quality Engineer. Jun 2017 - Aug 2018.
 
 </br>
 
