@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 </br>
 
-_Learning about open-source things, one comit at a time._
+_Learning about open-source things, one commit at a time._
 
 </br>
 
