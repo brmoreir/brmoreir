@@ -29,7 +29,7 @@ _Learning about open-source things, one commit at a time._
 
 </br>
 
-- I'm a young Engineer with a craft for people, who enjoys challenges, learning and growing. I'm starting my journey in open-source and looking forward to start contributing to this community. (Any tips?)
+- I'm a Product Manager and Engineer with a craft for people, who enjoys challenges, learning and growing. I'm starting my journey in open-source and looking forward to start contributing to this community. (Any tips?)
 - I'm learning about **K8S**, **DevOps** and **Github**.
 - I'm having fun working [@Microsoft](https://www.instagram.com/microsoft/) as an Azure Infrastructure Engineer. 
 - I'm a proud Portuguese, also living in Portugal. 
