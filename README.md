@@ -31,8 +31,8 @@ _Learning about open-source things, one commit at a time._
 
 - I'm a Product Manager and Engineer with a craft for people, who enjoys challenges, learning and growing. I'm starting my journey in open-source and looking forward to start contributing to this community. (Any tips?)
 - I'm learning about **K8S**, **DevOps** and **Github**.
-- I'm having fun working [@Microsoft](https://www.instagram.com/microsoft/) as an Azure Infrastructure Engineer. 
-- I'm a proud Portuguese, also living in Portugal. 
+- I'm having fun working [@Google](https://www.instagram.com/google/) as a Partner Engineer for Google Cloud. 
+- I'm a proud Portuguese, now living in the United Kingdom.
 - Hobbies include: Surfing, Telling Stories, my Pets and Eating. 
 
 </br>
@@ -48,8 +48,8 @@ Yeah... Still working on these. Stay tunned!
 ### 👕 Work
 
 </br>
-
-- [Microsoft](https://www.microsoft.com/) as a Azure Infrastructure Engineer. May 2020 - ???.
+- [Google](https://www.google.com/) as a Partner Engineer. July 2024 - ???.
+- [Microsoft](https://www.microsoft.com/) as a Azure Infrastructure Engineer. May 2020 - July 2024.
 - [Microsoft](https://www.microsoft.com/) as a Partner Technical Consultant. Set 2018 - May 2020.
 - [Microsoft](https://www.microsoft.com/en) as a Digital Transformation Consultant. Set 2017 - Jun 2018.
 - [Vodafone](https://www.vodafone.com) as a Quality Engineer. Jun 2017 - Aug 2018.
